@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://onepiece.tier-list-maker.com/sitemap.xml
